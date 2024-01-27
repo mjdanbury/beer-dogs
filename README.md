@@ -1,2 +1,1 @@
-# 07-homework
- Practicing pandas with beer and dogs
+Practicing pandas with beer and dogs
